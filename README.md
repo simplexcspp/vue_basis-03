@@ -1,6 +1,6 @@
 # iview-city-choose-demo
 
-> A Vue.js project
+> iview-city-choose-demo
 
 ## Build Setup
 
